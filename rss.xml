@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nick Kalisz Media]]></title>
+        <description><![CDATA[Nick Kalisz Media]]></description>
+        <link>https://thegrid.ai/nick-kalisz-media/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Jul 2016 21:53:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nick-kalisz-media/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Beautiful Speedometer for Bikes]]></title>
+            <description><![CDATA[<article><h1>A Beautiful Speedometer for Bikes</h1><p>Shout-out to designers who are also obsessed with cycling because their work frequently results in something new and clever, like the arresting Omata One. Mounted onto a bike, the speedometer's unique analog face informs of the four most relevant ride metrics (speed, distance, ascent and time).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d105236023603a813c26d257fbe058ad72b3f663.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/tech/omata-one-analog-gps-speedometer-cycling-kickstarter</link>
+            <guid isPermaLink="false">6b14c564-c4fa-4276-971f-8be831ebefc9</guid>
+            <pubDate>Thu, 14 Jul 2016 21:53:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Disney space station? It no longer seems like such a goofy idea]]></title>
+            <description><![CDATA[<article><h1>A Disney space station? It no longer seems like such a goofy idea</h1><p>Throughout our planet's space-faring history, there have been two major impediments to putting a lot of private citizens into orbit. Only governments have had spacecraft, and there have been only a few, government-controlled, space stations to visit. But now that may finally changing in a big way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d83d67a7d53a5e25e15266ea03dab94cba53ee33.jpg"></article>]]></description>
+            <link>http://arstechnica.com/science/2016/04/a-disney-space-station-it-no-longer-seems-like-such-a-goofy-idea/</link>
+            <guid isPermaLink="false">739996bc-95d8-4ccf-a157-b86ac9ae9ad1</guid>
+            <pubDate>Thu, 14 Jul 2016 21:53:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From Science Fiction to Reality: The Evolution of Artificial Intelligence]]></title>
+            <description><![CDATA[<article><h1>From Science Fiction to Reality: The Evolution of Artificial Intelligence</h1><p>What was once just a figment of the imagination of some our most famous science fiction writers, artificial intelligence (AI) is taking root in our everyday lives. We're still a few years away from having robots at our beck and call, but AI has already had a profound impact in more subtle ways.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/357196ae30863a53e7710f55ebbdd64acab6cdce.jpg"></article>]]></description>
+            <link>http://www.wired.com/insights/2015/01/the-evolution-of-artificial-intelligence/</link>
+            <guid isPermaLink="false">ddfccc50-79be-427d-b5e2-194c60647546</guid>
+            <pubDate>Thu, 14 Jul 2016 21:53:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
