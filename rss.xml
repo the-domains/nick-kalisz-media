@@ -4,8 +4,15 @@
         <description><![CDATA[Nick Kalisz Media]]></description>
         <link>https://thegrid.ai/nick-kalisz-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 14:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 14:34:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nick-kalisz-media/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nick Kalisz // Demo Reel // 2015]]></title>
+            <description><![CDATA[<article><h1>Nick Kalisz // Demo Reel // 2015</h1><p>This is my story from the past year of beauty and joy, leading into some of the hardships we all encounter. As in any life these hardships can lead to great success. Nick Kalisz' film career is inspired by the great outdoors and the raw beauty of human emotion.</p></article>]]></description>
+            <link>https://vimeo.com/134061360</link>
+            <guid isPermaLink="false">b16dfcdd-69aa-4f9d-9f98-c901bdbbd10e</guid>
+            <pubDate>Fri, 15 Jul 2016 14:34:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nick Kalisz // Demo Reel]]></title>
             <description><![CDATA[<article><h1>Nick Kalisz // Demo Reel</h1><p>This is my story from the past year of beauty and joy, leading into some of the hardships we all encounter. As in any life these hardships can lead to great success.
@@ -15,20 +22,6 @@ Equipment: 4k Red Digital Cinema Cameras, Phantom Camera Systems, Canon, Sony, D
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5483b985-c249-4a87-b9b4-3f5b53ce21a9.png</link>
             <guid isPermaLink="false">ff715a7c-9d1e-46bd-ae51-e966835877cd</guid>
             <pubDate>Thu, 14 Jul 2016 22:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Disney space station? It no longer seems like such a goofy idea]]></title>
-            <description><![CDATA[<article><h1>A Disney space station? It no longer seems like such a goofy idea</h1><p>Throughout our planet's space-faring history, there have been two major impediments to putting a lot of private citizens into orbit. Only governments have had spacecraft, and there have been only a few, government-controlled, space stations to visit. But now that may finally changing in a big way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d83d67a7d53a5e25e15266ea03dab94cba53ee33.jpg"></article>]]></description>
-            <link>http://arstechnica.com/science/2016/04/a-disney-space-station-it-no-longer-seems-like-such-a-goofy-idea/</link>
-            <guid isPermaLink="false">739996bc-95d8-4ccf-a157-b86ac9ae9ad1</guid>
-            <pubDate>Thu, 14 Jul 2016 21:53:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From Science Fiction to Reality: The Evolution of Artificial Intelligence]]></title>
-            <description><![CDATA[<article><h1>From Science Fiction to Reality: The Evolution of Artificial Intelligence</h1><p>What was once just a figment of the imagination of some our most famous science fiction writers, artificial intelligence (AI) is taking root in our everyday lives. We're still a few years away from having robots at our beck and call, but AI has already had a profound impact in more subtle ways.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/357196ae30863a53e7710f55ebbdd64acab6cdce.jpg"></article>]]></description>
-            <link>http://www.wired.com/insights/2015/01/the-evolution-of-artificial-intelligence/</link>
-            <guid isPermaLink="false">ddfccc50-79be-427d-b5e2-194c60647546</guid>
-            <pubDate>Thu, 14 Jul 2016 21:53:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
